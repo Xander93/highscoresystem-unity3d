@@ -3,7 +3,7 @@ A way to build a highscore system into your application.
 
 How to use this example:
 
-Step(1)
+Step(1) /n
 Download the files and create a new unity3d Project.
 Step(2)
 Insert all files into the asset folder.(except the WWW folder)
