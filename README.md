@@ -11,13 +11,14 @@ Step(3)<br>
 Drop the files in the WWW folder into the WWW folder of your webhost.<br>
 Step(4)<br>
 Use this Create Query:<br>
- 
+~~~~
 CREATE TABLE `scores` (
    `id` INT(10) UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
    `name` VARCHAR(15) NOT NULL DEFAULT 'anonymous',
    `score` INT(10) UNSIGNED NOT NULL DEFAULT '0'
 )
 ENGINE=MyISAM;
+~~~~
 
 Step(5)<br>
 The only thing you have to do is changing everything to your urls, username & password.(just watch all scripts c# and php).<br>
