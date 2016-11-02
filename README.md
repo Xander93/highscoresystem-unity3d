@@ -8,8 +8,13 @@ Download the files and create a new unity3d Project.<br>
 Step(2)<br>
 Insert all files into the asset folder.(except the WWW folder)<br>
 Step(3)<br>
-Drop the files in the WWW folder into the WWW folder of your webhost.<br>
+Drop the files of my WWW folder into the WWW folder of your choice.<br>
 Step(4)<br>
+Go into whatever you use to manually modify a MySQL Database (This time i used phpMyAdmin), and create a new database.
+Create New Database:
+Name: yourname_scores 
+Type: Collation
+
 Use this Create Query:<br>
 ~~~~
 CREATE TABLE `scores` (
