@@ -40,7 +40,6 @@ public class HSController : MonoBehaviour
         string name = textName.text;
         int score;
         int.TryParse(textScore.text, out score);
-        print(score);
         StartCoroutine(PostScores(name, score));
     }
 
