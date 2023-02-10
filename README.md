@@ -1,4 +1,4 @@
-# highscoresystem-unity3d
+# Welcome to highscoresystem-unity3d! ✨
 A way to build a highscore system into your application.
 
 ### How to use this example:
